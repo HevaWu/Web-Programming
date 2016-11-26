@@ -1,0 +1,20 @@
+{
+    "notes": [
+        {
+            "id": 2,
+            "title": "My SecondNote",
+            "dueDate": "2016-11-09",
+            "summary": "My SecondNote",
+            "body": "My SecondNote",
+            "done": false
+        },
+        {
+            "id": 1,
+            "title": "My First Note",
+            "dueDate": "2016-11-16",
+            "summary": "The first Note",
+            "body": "The first Note",
+            "done": false
+        }
+    ]
+}
