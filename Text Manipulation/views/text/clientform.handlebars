@@ -1,0 +1,33 @@
+<div class="row">
+  <div class="col-sm-12">
+    <form id="client-form" method="post">
+      <div class="form-group">
+        <label for="string1">Text Area</label>
+        <input type="text" class="form-control" id="string1" name="string1" placeholder="Text Area" value="{{firstString}}">
+      </div>
+      <div class="form-group">
+        <label for="string2">Insert String</label>
+        <input type="text" class="form-control" id="string2" name="string2" placeholder="Insert String" value="{{secondString}}">
+      </div>
+      <div class="form-group">
+        <label for="number1">Insert Times of the Insert String</label>
+        <input type="number" class="form-control" id="number1" name="number1" placeholder="Insert Times" value="{{firstNumber}}">
+      </div>
+      <div class="form-group">
+        <label for="number2">Number of Characters Between Each Insert</label>
+        <input type="number" class="form-control" id="number2" name="number2" placeholder="Number of Characters" value="{{secondNumber}}">
+      </div>
+      <div class="form-group hidden" id="error-container">
+        <div class="alert alert-danger text-goes-here">
+        </div>
+      </div>
+      <div class="form-group">
+        <button type="submit" class="btn btn-default">Submit</button>
+      </div>
+      <div class="form-group hidden" id="result-container">
+        <div class="alert alert-success text-goes-here">
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
