@@ -1,6 +1,3 @@
 # Web-Programming
-Create a very simple, unauthenticated application that stores notes in files and retrieves them to display on the page. 
+Using javaScript and Nodejs to build a webpage.
 
-Start Using jQuery, AJAX
-
-Pay attention to the XSS Attacks
