@@ -2,6 +2,8 @@
 Using javaScript and Nodejs to build a webpage.
 
 * Through EXPRESS module to build a local server and connect the the local webpage
+
+* Through MongoDB package to store data
   
 * Through body-parser package to passing data from webpage
   
