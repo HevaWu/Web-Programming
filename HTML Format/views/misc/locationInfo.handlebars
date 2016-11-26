@@ -1,0 +1,14 @@
+<article class="location">
+  <h1>{{ location.name }}</h1>
+  <em>Location: {{location.location}}</em>
+
+  {{#if location.events.length}}
+  <h4>Events holding at this location</h4>
+  <ul>
+    {{#each location.events}}
+    <li><a href="/events/{{this.id}}">{{this.title}}</a></li>
+    {{/each}}
+  </ul>
+  {{/if}}
+
+</article>
