@@ -1,0 +1,17 @@
+{
+  "name": "cs546_lab3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "He Wu",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.10",
+    "node-uuid": "^1.4.7"
+  },
+  "devDependencies": {},
+  "description": "Lab3"
+}
