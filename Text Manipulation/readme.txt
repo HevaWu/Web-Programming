@@ -1,9 +1,4 @@
-/***********************
- * Course: CS-546-A    *
- * Student: He Wu      *
- * CWID: 10406347      *
- *       Lab 5         *
- **********************/
+
 
 In this lab, it contains: 
    data folder:   set text module functions, 
