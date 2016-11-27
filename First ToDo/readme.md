@@ -6,4 +6,4 @@
 * Practice of using Promise for asynchronous code  
 * Try to link these module together
 
-Use [node-uuid] to generate unique id's to the use as your identifiers
+Use [node-uuid](https://github.com/broofa/node-uuid) to generate unique id's to the use as your identifiers
