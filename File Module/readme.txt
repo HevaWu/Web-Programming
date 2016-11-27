@@ -1,9 +1,4 @@
-/* * * * * * * * * * * * *
- * Student Name: He Wu   *
- * Course: CS-546-A	 *
- * Stevens ID: 10406347  *
- *         Lab 2	 *
- * * * * * * * * * * * * */
+
 
 In this lab2, my zip file contain two folders, "file_module_fileData" and "metric_module_textMetrics".
 
