@@ -16,3 +16,5 @@ Using javaScript and Nodejs to build a webpage.
 * Test the webpage design by  [tota11y](http://khan.github.io/tota11y/)
 
 * Test the webpage valid by  [HTML valid](https://validator.w3.org/#validate_by_input)
+
+* Use [Postman](https://www.getpostman.com/) to achieve GET/POST/DELETE method  
