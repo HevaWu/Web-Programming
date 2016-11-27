@@ -1,9 +1,3 @@
-/***********************
- * Course: CS-546-A    *
- * Student: He Wu      *
- * CWID: 10406347      *
- *       Lab 8         *
- **********************/
 
 In this lab, it contains:
    public folder: in main.css we set the webpage style
