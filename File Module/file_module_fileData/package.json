@@ -1,0 +1,19 @@
+{
+  "name": "file_module",
+  "version": "1.0.0",
+  "description": "A simple file module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "He Wu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "A simple file module"
+  },
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
